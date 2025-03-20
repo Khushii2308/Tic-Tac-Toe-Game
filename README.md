@@ -75,7 +75,7 @@ Player 1 (X)  -  Player 2 (O)
  -----------
   4 | 5 | 6
  -----------
- # 7 | 8 | 9
+ ## 7 | 8 | 9
 
 
 Player 1, enter a number: 5
