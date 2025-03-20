@@ -19,26 +19,34 @@ This project is a simple Tic Tac Toe game implemented in C. It allows two player
 3. Players enter a number (1-9) corresponding to an empty square.
 4. The board updates with the player's mark (X or O).
 5. The game continues until:
-A player wins (three marks in a row, column, or diagonal).
+   
+*A player wins (three marks in a row, column, or diagonal).
 
-The board is full, resulting in a draw.
+*The board is full, resulting in a draw.
 
-The winner (if any) is displayed, and the game ends.
+*The winner (if any) is displayed, and the game ends.
 
 ## Installation & Compilation
-1. Clone the Repository
+
+1. Clone the Repository -
+   
 one https://github.com/yourusername/tic-tac-toe.git
+
 cd tic-tac-toe
-2. Compile the Code
-Using GCC (Linux/macOS):
+
+2. Compile the Code -
+   
+*Using GCC (Linux/macOS):
 
 gcc tic_tac_toe.c -o tic_tac_toe
+
 ./tic_tac_toe
 
 
-Using Windows (MinGW GCC):
+*Using Windows (MinGW GCC):
 
 gcc tic_tac_toe.c -o tic_tac_toe.exe
+
 tic_tac_toe.exe
 
 ## Usage
@@ -67,7 +75,8 @@ Player 1 (X)  -  Player 2 (O)
  -----------
   4 | 5 | 6
  -----------
-  7 | 8 | 9
+ #### 7 | 8 | 9
+
 
 Player 1, enter a number: 5
 
