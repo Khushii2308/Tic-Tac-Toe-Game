@@ -28,22 +28,22 @@ This project is a simple Tic Tac Toe game implemented in C. It allows two player
 
 ## Installation & Compilation
 
-1. Clone the Repository -
+### 1. Clone the Repository -
    
 one https://github.com/yourusername/tic-tac-toe.git
 
 cd tic-tac-toe
 
-2. Compile the Code -
+### 2. Compile the Code -
    
-*Using GCC (Linux/macOS):
+#### *Using GCC (Linux/macOS):
 
 gcc tic_tac_toe.c -o tic_tac_toe
 
 ./tic_tac_toe
 
 
-*Using Windows (MinGW GCC):
+#### *Using Windows (MinGW GCC):
 
 gcc tic_tac_toe.c -o tic_tac_toe.exe
 
@@ -75,7 +75,7 @@ Player 1 (X)  -  Player 2 (O)
  -----------
   4 | 5 | 6
  -----------
- #### 7 | 8 | 9
+ # 7 | 8 | 9
 
 
 Player 1, enter a number: 5
